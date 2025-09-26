@@ -1,4 +1,4 @@
-##📊 Aggregation-Functions-and-Grouping
+# 📊 Aggregation-Functions-and-Grouping
 
 
 ## 🎯 Objective  
