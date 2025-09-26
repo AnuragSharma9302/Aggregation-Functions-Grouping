@@ -8,6 +8,7 @@ Use **aggregate functions** and **grouping** to summarize and analyze data effec
 
 ## 🛠 Tools  
 -- 🐘 pgAdmin4 for (PostgreSQL)
+- 🐬 MySQL **Workbench**  
 
 ---
 
