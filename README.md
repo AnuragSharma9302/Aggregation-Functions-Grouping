@@ -1,4 +1,4 @@
-# 📊 Aggregation-Functions-and-Grouping
+<img width="270" height="148" alt="image" src="https://github.com/user-attachments/assets/6b36a51f-ba5b-48b6-886c-cf3ce0d65e7c" /># 📊 Aggregation-Functions-and-Grouping
 
 
 ## 🎯 Objective  
@@ -7,8 +7,7 @@ Use **aggregate functions** and **grouping** to summarize and analyze data effec
 ---
 
 ## 🛠 Tools  
-- 🗄️ DB Browser for **SQLite**  
-- 🐬 MySQL **Workbench**  
+-- 🐘 pgAdmin4 for (PostgreSQL)
 
 ---
 
