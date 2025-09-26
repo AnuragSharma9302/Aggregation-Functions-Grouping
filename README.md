@@ -49,7 +49,7 @@ Use **aggregate functions** and **grouping** to summarize and analyze data effec
 
 ## 🚀 How to Run  
 
-1. Open **SQLite DB Browser** or **MySQL Workbench** or**pgAdmin4 Workbench**.  
+1. Open **SQLite DB Browser** or **MySQL Workbench** or **pgAdmin4 Workbench**.  
 2. Run **`schema.sql`** → creates tables & inserts sample data.  
 3. Run queries from **`queries.sql`** → practice aggregation & grouping.  
 
