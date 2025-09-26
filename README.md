@@ -42,16 +42,16 @@ Use **aggregate functions** and **grouping** to summarize and analyze data effec
 ---
 
 ## 📂 Files in This Repo  
-📄 `sample_schema.sql` → Creates `Customers` and `Orders` tables with sample data.  
-📄 `aggregate_queries.sql` → Contains queries with aggregate functions, grouping, and filtering.  
+📄 `schema.sql` → Creates `Customers` and `Orders` tables with sample data.  
+📄 `queries.sql` → Contains queries with aggregate functions, grouping, and filtering.  
 
 ---
 
 ## 🚀 How to Run  
 
-1. Open **SQLite DB Browser** or **MySQL Workbench**.  
-2. Run **`sample_schema.sql`** → creates tables & inserts sample data.  
-3. Run queries from **`aggregate_queries.sql`** → practice aggregation & grouping.  
+1. Open **SQLite DB Browser** or **MySQL Workbench** or**pgAdmin4 Workbench**.  
+2. Run **`schema.sql`** → creates tables & inserts sample data.  
+3. Run queries from **`queries.sql`** → practice aggregation & grouping.  
 
 ---
 
